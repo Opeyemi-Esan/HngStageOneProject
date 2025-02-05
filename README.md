@@ -50,7 +50,7 @@ Before you begin, ensure you have the following installed on your machine:
 
 1. Clone the repository:  
    ```bash  
-   git clone [https://github.com/yourusername/HngStageOneProject.git](https://github.com/Opeyemi-Esan/HngStageOneProject.git)  
+   git clone https://github.com/Opeyemi-Esan/HngStageOneProject.git  
    cd HngStageOneProject
 
 2. Restore the required packages
